@@ -19,4 +19,6 @@ function whileLoop(number){
 }
 
 
-function whileLoop(number){
+function doWhileLoop(array){
+  
+}
