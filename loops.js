@@ -21,6 +21,11 @@ function whileLoop(number){
 
 function doWhileLoop(array){
   
+  do{
+    
+  } while 
+  
+  
 }
 
 function maybeTrue() {
